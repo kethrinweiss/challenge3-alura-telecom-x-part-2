@@ -106,5 +106,5 @@ definir estratégias de retenção personalizadas.
 
 ------------------------------------------------------------------------
 
-📌 **Autor:** *\Kethrin Weiss*\
+📌 **Autor:** *Kethrin Weiss*
 
