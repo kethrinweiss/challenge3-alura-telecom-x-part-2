@@ -98,13 +98,5 @@ definir estratégias de retenção personalizadas.
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do Projeto
-
-    ├── dados_tratados.csv     # Dataset utilizado
-    ├── notebooks/             # Notebooks do Google Colab
-    ├── README.md              # Documentação do projeto
-
-------------------------------------------------------------------------
-
 📌 **Autor:** *Kethrin Weiss*
 
