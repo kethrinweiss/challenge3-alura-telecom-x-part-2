@@ -106,6 +106,5 @@ definir estratégias de retenção personalizadas.
 
 ------------------------------------------------------------------------
 
-📌 **Autor:** *\[Seu Nome\]*\
-📌 \*\*Projeto acadêmico/desafio inspirado em estudos de Data Science e
-Machine Learning.\*
+📌 **Autor:** *\Kethrin Weiss*\
+
